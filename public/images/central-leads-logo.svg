@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="96" viewBox="0 0 420 96" role="img" aria-labelledby="title">
+  <title id="title">Central Leads Management System</title>
+  <rect width="420" height="96" rx="18" fill="#0f172a"/>
+  <rect x="18" y="18" width="60" height="60" rx="16" fill="#2563eb"/>
+  <path d="M35 50c0-11 8-19 19-19 6 0 11 2 15 6l-8 8c-2-2-4-3-7-3-5 0-8 3-8 8s3 8 8 8c4 0 6-1 8-4l8 8c-4 5-9 7-16 7-11 0-19-8-19-19Z" fill="#fff"/>
+  <path d="M86 31h11v26h18v11H86V31Z" fill="#38bdf8"/>
+  <text x="132" y="43" fill="#f8fafc" font-family="Arial, sans-serif" font-size="20" font-weight="700">Central Leads</text>
+  <text x="132" y="66" fill="#94a3b8" font-family="Arial, sans-serif" font-size="14">Management System</text>
+</svg>
